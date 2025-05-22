@@ -10,7 +10,7 @@ modelo = load_model("modelo_mottu.keras")
 classes = ["mottu_e", "mottu_pop", "mottu_sport"]
 
 # Caminho da imagem para teste
-imagem_path = "dataset/mottu_pop/mottu_pop_5.jpg"
+imagem_path = "moto_teste.jpg"
 
 # Verifica se o arquivo existe
 if not os.path.exists(imagem_path):
