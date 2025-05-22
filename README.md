@@ -51,8 +51,9 @@ Instale as dependências com:
 ```bash
 pip install tensorflow opencv-python
 
-### Rodar
-### Execute o script dentro da pasta da sua aplicação
+Execute o script dentro da pasta da sua aplicação
+
+```bash
 python detectar_motos.py
 
 
