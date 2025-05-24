@@ -19,7 +19,7 @@ mottu_visao_computacional/
 │   ├── mottu_pop/
 │   └── mottu_sport/
 ├── detectar_motos.py             # Script de detecção/classificação visual (simulado)
-├── 
+├── moto_teste.jpg
 ├── mottu_classificacao_motos.ipynb  # Notebook com modelo de CNN para classificar imagens
 ├── README.md                     # Instruções e explicações do projeto
 ```
