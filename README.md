@@ -60,5 +60,5 @@ python detectar_motos.py
 
 ---
 
-Projeto desenvolvido por Fernando Aguiar, Gabrielly Macedo e Rafael Macoto — FIAP
+Projeto desenvolvido por Fernando Henrique Vilela Aguiar (557525), Gabrielly Campos Macedo (558962) e Rafael Mocoto Magalhães Seo (554992) — FIAP
 
